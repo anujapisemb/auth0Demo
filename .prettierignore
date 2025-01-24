@@ -1,0 +1,9 @@
+dist/**/*.js
+assets
+android
+ios
+vendor
+package.json
+package-lock.json
+yarn.lock
+*.md
