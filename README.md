@@ -1,4 +1,4 @@
-
+Android
 yarn android:staging - To run app on staging environment
 yarn android:staging-release - To run app on staging release environment
 yarn android:dev - To run app on developement environment
